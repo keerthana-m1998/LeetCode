@@ -7,6 +7,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/keerthana-m1998/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0056-merge-intervals](https://github.com/keerthana-m1998/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/keerthana-m1998/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0152-maximum-product-subarray](https://github.com/keerthana-m1998/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/keerthana-m1998/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/keerthana-m1998/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/keerthana-m1998/LeetCode/tree/master/0283-move-zeroes) |
@@ -64,4 +65,8 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/keerthana-m1998/LeetCode/tree/master/0493-reverse-pairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/keerthana-m1998/LeetCode/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
