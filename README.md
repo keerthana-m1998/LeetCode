@@ -31,6 +31,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/keerthana-m1998/LeetCode/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/keerthana-m1998/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/keerthana-m1998/LeetCode/tree/master/0268-missing-number) |
 ## Hash Table
