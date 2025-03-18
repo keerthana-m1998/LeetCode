@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/keerthana-m1998/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/keerthana-m1998/LeetCode/tree/master/0035-search-insert-position) |
 | [0056-merge-intervals](https://github.com/keerthana-m1998/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/keerthana-m1998/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/keerthana-m1998/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -42,6 +43,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/keerthana-m1998/LeetCode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/keerthana-m1998/LeetCode/tree/master/0268-missing-number) |
 | [0493-reverse-pairs](https://github.com/keerthana-m1998/LeetCode/tree/master/0493-reverse-pairs) |
 | [0792-binary-search](https://github.com/keerthana-m1998/LeetCode/tree/master/0792-binary-search) |
