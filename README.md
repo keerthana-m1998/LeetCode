@@ -131,6 +131,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/keerthana-m1998/LeetCode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/keerthana-m1998/LeetCode/tree/master/0125-valid-palindrome) |
 ## Recursion
 |  |
@@ -164,4 +165,8 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/keerthana-m1998/LeetCode/tree/master/0073-set-matrix-zeroes) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/keerthana-m1998/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
