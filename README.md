@@ -33,6 +33,7 @@
 | [0792-binary-search](https://github.com/keerthana-m1998/LeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/keerthana-m1998/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/keerthana-m1998/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1219-longest-well-performing-interval](https://github.com/keerthana-m1998/LeetCode/tree/master/1219-longest-well-performing-interval) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/keerthana-m1998/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/keerthana-m1998/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/keerthana-m1998/LeetCode/tree/master/1646-kth-missing-positive-number) |
@@ -73,6 +74,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/keerthana-m1998/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/keerthana-m1998/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/keerthana-m1998/LeetCode/tree/master/0268-missing-number) |
+| [1219-longest-well-performing-interval](https://github.com/keerthana-m1998/LeetCode/tree/master/1219-longest-well-performing-interval) |
 ## Binary Search
 |  |
 | ------- |
@@ -153,6 +155,7 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/keerthana-m1998/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [1219-longest-well-performing-interval](https://github.com/keerthana-m1998/LeetCode/tree/master/1219-longest-well-performing-interval) |
 ## Simulation
 |  |
 | ------- |
@@ -169,4 +172,9 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/keerthana-m1998/LeetCode/tree/master/0020-valid-parentheses) |
+| [1219-longest-well-performing-interval](https://github.com/keerthana-m1998/LeetCode/tree/master/1219-longest-well-performing-interval) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1219-longest-well-performing-interval](https://github.com/keerthana-m1998/LeetCode/tree/master/1219-longest-well-performing-interval) |
 <!---LeetCode Topics End-->
