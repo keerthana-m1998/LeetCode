@@ -39,6 +39,7 @@
 | [1646-kth-missing-positive-number](https://github.com/keerthana-m1998/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/keerthana-m1998/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/keerthana-m1998/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2329-maximum-product-after-k-increments](https://github.com/keerthana-m1998/LeetCode/tree/master/2329-maximum-product-after-k-increments) |
 ## Sorting
 |  |
 | ------- |
@@ -151,6 +152,7 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/keerthana-m1998/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [2329-maximum-product-after-k-increments](https://github.com/keerthana-m1998/LeetCode/tree/master/2329-maximum-product-after-k-increments) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -177,4 +179,8 @@
 |  |
 | ------- |
 | [1219-longest-well-performing-interval](https://github.com/keerthana-m1998/LeetCode/tree/master/1219-longest-well-performing-interval) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2329-maximum-product-after-k-increments](https://github.com/keerthana-m1998/LeetCode/tree/master/2329-maximum-product-after-k-increments) |
 <!---LeetCode Topics End-->
