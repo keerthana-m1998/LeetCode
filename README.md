@@ -67,6 +67,7 @@
 | [0189-rotate-array](https://github.com/keerthana-m1998/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/keerthana-m1998/LeetCode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/keerthana-m1998/LeetCode/tree/master/1013-fibonacci-number) |
+| [2544-minimum-addition-to-make-integer-beautiful](https://github.com/keerthana-m1998/LeetCode/tree/master/2544-minimum-addition-to-make-integer-beautiful) |
 ## Hash Table
 |  |
 | ------- |
@@ -153,6 +154,7 @@
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/keerthana-m1998/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [2329-maximum-product-after-k-increments](https://github.com/keerthana-m1998/LeetCode/tree/master/2329-maximum-product-after-k-increments) |
+| [2544-minimum-addition-to-make-integer-beautiful](https://github.com/keerthana-m1998/LeetCode/tree/master/2544-minimum-addition-to-make-integer-beautiful) |
 ## Prefix Sum
 |  |
 | ------- |
