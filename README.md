@@ -144,6 +144,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/keerthana-m1998/LeetCode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/keerthana-m1998/LeetCode/tree/master/0125-valid-palindrome) |
+| [1078-remove-outermost-parentheses](https://github.com/keerthana-m1998/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 ## Recursion
 |  |
 | ------- |
@@ -186,6 +187,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/keerthana-m1998/LeetCode/tree/master/0020-valid-parentheses) |
+| [1078-remove-outermost-parentheses](https://github.com/keerthana-m1998/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1219-longest-well-performing-interval](https://github.com/keerthana-m1998/LeetCode/tree/master/1219-longest-well-performing-interval) |
 ## Monotonic Stack
 |  |
