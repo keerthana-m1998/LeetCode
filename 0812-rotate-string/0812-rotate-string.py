@@ -7,7 +7,9 @@ class Solution:
         # TC : O(N), SC : O(s+s)
 
         # SImulate Rotation Soln:
-        
+        # Edge case:
+        if len(s)!=len(goal):
+            return False
         for _ in s:
             if s==goal:
                 return True
