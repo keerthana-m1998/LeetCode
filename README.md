@@ -56,6 +56,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/keerthana-m1998/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/keerthana-m1998/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/keerthana-m1998/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/keerthana-m1998/LeetCode/tree/master/0075-sort-colors) |
@@ -143,6 +144,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/keerthana-m1998/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/keerthana-m1998/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/keerthana-m1998/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/keerthana-m1998/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -151,6 +153,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/keerthana-m1998/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/keerthana-m1998/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/keerthana-m1998/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/keerthana-m1998/LeetCode/tree/master/0014-longest-common-prefix) |
