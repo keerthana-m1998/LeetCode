@@ -40,6 +40,7 @@
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/keerthana-m1998/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/keerthana-m1998/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/keerthana-m1998/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/keerthana-m1998/LeetCode/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
 | [2047-find-a-peak-element-ii](https://github.com/keerthana-m1998/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/keerthana-m1998/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2329-maximum-product-after-k-increments](https://github.com/keerthana-m1998/LeetCode/tree/master/2329-maximum-product-after-k-increments) |
@@ -53,6 +54,7 @@
 | [0242-valid-anagram](https://github.com/keerthana-m1998/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/keerthana-m1998/LeetCode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/keerthana-m1998/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/keerthana-m1998/LeetCode/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
 ## Two Pointers
 |  |
 | ------- |
@@ -184,6 +186,7 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/keerthana-m1998/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/keerthana-m1998/LeetCode/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
 | [2032-largest-odd-number-in-string](https://github.com/keerthana-m1998/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2329-maximum-product-after-k-increments](https://github.com/keerthana-m1998/LeetCode/tree/master/2329-maximum-product-after-k-increments) |
 | [2544-minimum-addition-to-make-integer-beautiful](https://github.com/keerthana-m1998/LeetCode/tree/master/2544-minimum-addition-to-make-integer-beautiful) |
