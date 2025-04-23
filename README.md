@@ -42,6 +42,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/keerthana-m1998/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/keerthana-m1998/LeetCode/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
 | [2047-find-a-peak-element-ii](https://github.com/keerthana-m1998/LeetCode/tree/master/2047-find-a-peak-element-ii) |
+| [2077-largest-number-after-mutating-substring](https://github.com/keerthana-m1998/LeetCode/tree/master/2077-largest-number-after-mutating-substring) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/keerthana-m1998/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2329-maximum-product-after-k-increments](https://github.com/keerthana-m1998/LeetCode/tree/master/2329-maximum-product-after-k-increments) |
 | [2502-sort-the-people](https://github.com/keerthana-m1998/LeetCode/tree/master/2502-sort-the-people) |
@@ -189,6 +190,7 @@
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/keerthana-m1998/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/keerthana-m1998/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/keerthana-m1998/LeetCode/tree/master/2032-largest-odd-number-in-string) |
+| [2077-largest-number-after-mutating-substring](https://github.com/keerthana-m1998/LeetCode/tree/master/2077-largest-number-after-mutating-substring) |
 | [2502-sort-the-people](https://github.com/keerthana-m1998/LeetCode/tree/master/2502-sort-the-people) |
 ## Recursion
 |  |
@@ -213,6 +215,7 @@
 | [0410-split-array-largest-sum](https://github.com/keerthana-m1998/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/keerthana-m1998/LeetCode/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
 | [2032-largest-odd-number-in-string](https://github.com/keerthana-m1998/LeetCode/tree/master/2032-largest-odd-number-in-string) |
+| [2077-largest-number-after-mutating-substring](https://github.com/keerthana-m1998/LeetCode/tree/master/2077-largest-number-after-mutating-substring) |
 | [2329-maximum-product-after-k-increments](https://github.com/keerthana-m1998/LeetCode/tree/master/2329-maximum-product-after-k-increments) |
 | [2544-minimum-addition-to-make-integer-beautiful](https://github.com/keerthana-m1998/LeetCode/tree/master/2544-minimum-addition-to-make-integer-beautiful) |
 ## Prefix Sum
