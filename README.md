@@ -103,6 +103,7 @@
 | [1013-fibonacci-number](https://github.com/keerthana-m1998/LeetCode/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/keerthana-m1998/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2544-minimum-addition-to-make-integer-beautiful](https://github.com/keerthana-m1998/LeetCode/tree/master/2544-minimum-addition-to-make-integer-beautiful) |
+| [2811-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/keerthana-m1998/LeetCode/tree/master/2811-determine-the-minimum-sum-of-a-k-avoiding-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -238,6 +239,7 @@
 | [2077-largest-number-after-mutating-substring](https://github.com/keerthana-m1998/LeetCode/tree/master/2077-largest-number-after-mutating-substring) |
 | [2329-maximum-product-after-k-increments](https://github.com/keerthana-m1998/LeetCode/tree/master/2329-maximum-product-after-k-increments) |
 | [2544-minimum-addition-to-make-integer-beautiful](https://github.com/keerthana-m1998/LeetCode/tree/master/2544-minimum-addition-to-make-integer-beautiful) |
+| [2811-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/keerthana-m1998/LeetCode/tree/master/2811-determine-the-minimum-sum-of-a-k-avoiding-array) |
 ## Prefix Sum
 |  |
 | ------- |
