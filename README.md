@@ -109,6 +109,7 @@
 | [0268-missing-number](https://github.com/keerthana-m1998/LeetCode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/keerthana-m1998/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/keerthana-m1998/LeetCode/tree/master/1013-fibonacci-number) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/keerthana-m1998/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2032-largest-odd-number-in-string](https://github.com/keerthana-m1998/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2544-minimum-addition-to-make-integer-beautiful](https://github.com/keerthana-m1998/LeetCode/tree/master/2544-minimum-addition-to-make-integer-beautiful) |
 | [2811-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/keerthana-m1998/LeetCode/tree/master/2811-determine-the-minimum-sum-of-a-k-avoiding-array) |
@@ -324,6 +325,7 @@
 | [0237-delete-node-in-a-linked-list](https://github.com/keerthana-m1998/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/keerthana-m1998/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/keerthana-m1998/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/keerthana-m1998/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/keerthana-m1998/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Quickselect
 |  |
