@@ -109,6 +109,7 @@
 | [0013-roman-to-integer](https://github.com/keerthana-m1998/LeetCode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/keerthana-m1998/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/keerthana-m1998/LeetCode/tree/master/0268-missing-number) |
+| [0319-bulb-switcher](https://github.com/keerthana-m1998/LeetCode/tree/master/0319-bulb-switcher) |
 | [0628-maximum-product-of-three-numbers](https://github.com/keerthana-m1998/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/keerthana-m1998/LeetCode/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/keerthana-m1998/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -345,4 +346,8 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/keerthana-m1998/LeetCode/tree/master/0948-sort-an-array) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/keerthana-m1998/LeetCode/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
