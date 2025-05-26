@@ -239,6 +239,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/keerthana-m1998/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/keerthana-m1998/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/keerthana-m1998/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0038-count-and-say](https://github.com/keerthana-m1998/LeetCode/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/keerthana-m1998/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/keerthana-m1998/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/keerthana-m1998/LeetCode/tree/master/0179-largest-number) |
