@@ -254,6 +254,7 @@
 | [0038-count-and-say](https://github.com/keerthana-m1998/LeetCode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/keerthana-m1998/LeetCode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/keerthana-m1998/LeetCode/tree/master/0058-length-of-last-word) |
+| [0065-valid-number](https://github.com/keerthana-m1998/LeetCode/tree/master/0065-valid-number) |
 | [0125-valid-palindrome](https://github.com/keerthana-m1998/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/keerthana-m1998/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/keerthana-m1998/LeetCode/tree/master/0179-largest-number) |
