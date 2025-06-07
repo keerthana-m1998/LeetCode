@@ -133,6 +133,7 @@
 | [0050-powx-n](https://github.com/keerthana-m1998/LeetCode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/keerthana-m1998/LeetCode/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/keerthana-m1998/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/keerthana-m1998/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/keerthana-m1998/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/keerthana-m1998/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/keerthana-m1998/LeetCode/tree/master/0268-missing-number) |
@@ -196,6 +197,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/keerthana-m1998/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/keerthana-m1998/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/keerthana-m1998/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/keerthana-m1998/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -257,6 +259,7 @@
 | [0043-multiply-strings](https://github.com/keerthana-m1998/LeetCode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/keerthana-m1998/LeetCode/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/keerthana-m1998/LeetCode/tree/master/0065-valid-number) |
+| [0067-add-binary](https://github.com/keerthana-m1998/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/keerthana-m1998/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/keerthana-m1998/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/keerthana-m1998/LeetCode/tree/master/0179-largest-number) |
@@ -318,6 +321,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/keerthana-m1998/LeetCode/tree/master/0043-multiply-strings) |
 | [0059-spiral-matrix-ii](https://github.com/keerthana-m1998/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/keerthana-m1998/LeetCode/tree/master/0067-add-binary) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/keerthana-m1998/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Union Find
 |  |
