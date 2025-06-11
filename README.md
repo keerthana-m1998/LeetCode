@@ -53,6 +53,7 @@
 | [0485-max-consecutive-ones](https://github.com/keerthana-m1998/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/keerthana-m1998/LeetCode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/keerthana-m1998/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0594-longest-harmonious-subsequence](https://github.com/keerthana-m1998/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/keerthana-m1998/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/keerthana-m1998/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/keerthana-m1998/LeetCode/tree/master/0792-binary-search) |
@@ -88,6 +89,7 @@
 | [0242-valid-anagram](https://github.com/keerthana-m1998/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/keerthana-m1998/LeetCode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/keerthana-m1998/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0594-longest-harmonious-subsequence](https://github.com/keerthana-m1998/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/keerthana-m1998/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0948-sort-an-array](https://github.com/keerthana-m1998/LeetCode/tree/master/0948-sort-an-array) |
 | [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/keerthana-m1998/LeetCode/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
@@ -168,6 +170,7 @@
 | [0242-valid-anagram](https://github.com/keerthana-m1998/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/keerthana-m1998/LeetCode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/keerthana-m1998/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0594-longest-harmonious-subsequence](https://github.com/keerthana-m1998/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1219-longest-well-performing-interval](https://github.com/keerthana-m1998/LeetCode/tree/master/1219-longest-well-performing-interval) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/keerthana-m1998/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2502-sort-the-people](https://github.com/keerthana-m1998/LeetCode/tree/master/2502-sort-the-people) |
@@ -299,6 +302,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/keerthana-m1998/LeetCode/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/keerthana-m1998/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0594-longest-harmonious-subsequence](https://github.com/keerthana-m1998/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/keerthana-m1998/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Greedy
 |  |
@@ -418,6 +422,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/keerthana-m1998/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/keerthana-m1998/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0594-longest-harmonious-subsequence](https://github.com/keerthana-m1998/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/keerthana-m1998/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 ## Backtracking
 |  |
