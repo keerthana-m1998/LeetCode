@@ -32,6 +32,7 @@
 | [0074-search-a-2d-matrix](https://github.com/keerthana-m1998/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/keerthana-m1998/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/keerthana-m1998/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/keerthana-m1998/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/keerthana-m1998/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/keerthana-m1998/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/keerthana-m1998/LeetCode/tree/master/0134-gas-station) |
@@ -248,6 +249,7 @@
 | [0022-generate-parentheses](https://github.com/keerthana-m1998/LeetCode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/keerthana-m1998/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/keerthana-m1998/LeetCode/tree/master/0055-jump-game) |
+| [0118-pascals-triangle](https://github.com/keerthana-m1998/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/keerthana-m1998/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/keerthana-m1998/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/keerthana-m1998/LeetCode/tree/master/0410-split-array-largest-sum) |
