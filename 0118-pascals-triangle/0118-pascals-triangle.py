@@ -1,12 +1,14 @@
 class Solution:
     def generate(self, numRows: int) -> List[List[int]]:
-        res = []
-        for i in range(numRows):
-            rows = [1]*(i+1)
-
-            for j in range(1,i):
-                rows[j] = res[i-1][j-1]+res[i-1][j]
-
-
-            res.append(rows)
-        return res
+        def generatoR(row:int) -> List[int]:
+            ans = 1
+            ansRow = [1]
+            for col in range(1,row):
+                ans = ans*(row-col)
+                ans = ans//col
+                ansRow.append(ans)
+            return ansRow
+        ans = []
+        for row in range(1,numRows+1):
+            ans.append(generatoR(row))
+        return ans
