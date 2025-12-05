@@ -76,6 +76,7 @@
 | [2077-largest-number-after-mutating-substring](https://github.com/keerthana-m1998/LeetCode/tree/master/2077-largest-number-after-mutating-substring) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/keerthana-m1998/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2329-maximum-product-after-k-increments](https://github.com/keerthana-m1998/LeetCode/tree/master/2329-maximum-product-after-k-increments) |
+| [2373-largest-local-values-in-a-matrix](https://github.com/keerthana-m1998/LeetCode/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2502-sort-the-people](https://github.com/keerthana-m1998/LeetCode/tree/master/2502-sort-the-people) |
 | [2643-row-with-maximum-ones](https://github.com/keerthana-m1998/LeetCode/tree/master/2643-row-with-maximum-ones) |
 ## Sorting
@@ -359,6 +360,7 @@
 | [0074-search-a-2d-matrix](https://github.com/keerthana-m1998/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/keerthana-m1998/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [2047-find-a-peak-element-ii](https://github.com/keerthana-m1998/LeetCode/tree/master/2047-find-a-peak-element-ii) |
+| [2373-largest-local-values-in-a-matrix](https://github.com/keerthana-m1998/LeetCode/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2643-row-with-maximum-ones](https://github.com/keerthana-m1998/LeetCode/tree/master/2643-row-with-maximum-ones) |
 ## Stack
 |  |
