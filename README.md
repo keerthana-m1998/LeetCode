@@ -79,6 +79,7 @@
 | [2373-largest-local-values-in-a-matrix](https://github.com/keerthana-m1998/LeetCode/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2502-sort-the-people](https://github.com/keerthana-m1998/LeetCode/tree/master/2502-sort-the-people) |
 | [2643-row-with-maximum-ones](https://github.com/keerthana-m1998/LeetCode/tree/master/2643-row-with-maximum-ones) |
+| [3142-check-if-grid-satisfies-conditions](https://github.com/keerthana-m1998/LeetCode/tree/master/3142-check-if-grid-satisfies-conditions) |
 ## Sorting
 |  |
 | ------- |
@@ -362,6 +363,7 @@
 | [2047-find-a-peak-element-ii](https://github.com/keerthana-m1998/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/keerthana-m1998/LeetCode/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2643-row-with-maximum-ones](https://github.com/keerthana-m1998/LeetCode/tree/master/2643-row-with-maximum-ones) |
+| [3142-check-if-grid-satisfies-conditions](https://github.com/keerthana-m1998/LeetCode/tree/master/3142-check-if-grid-satisfies-conditions) |
 ## Stack
 |  |
 | ------- |
