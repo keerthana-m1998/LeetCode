@@ -69,6 +69,7 @@
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/keerthana-m1998/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/keerthana-m1998/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/keerthana-m1998/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/keerthana-m1998/LeetCode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1646-kth-missing-positive-number](https://github.com/keerthana-m1998/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/keerthana-m1998/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/keerthana-m1998/LeetCode/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
@@ -100,6 +101,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/keerthana-m1998/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/keerthana-m1998/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0948-sort-an-array](https://github.com/keerthana-m1998/LeetCode/tree/master/0948-sort-an-array) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/keerthana-m1998/LeetCode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/keerthana-m1998/LeetCode/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
 | [2502-sort-the-people](https://github.com/keerthana-m1998/LeetCode/tree/master/2502-sort-the-people) |
 ## Two Pointers
@@ -207,6 +209,7 @@
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/keerthana-m1998/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/keerthana-m1998/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/keerthana-m1998/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/keerthana-m1998/LeetCode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1646-kth-missing-positive-number](https://github.com/keerthana-m1998/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [2047-find-a-peak-element-ii](https://github.com/keerthana-m1998/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 ## Bit Manipulation
