@@ -6,7 +6,7 @@ class Solution:
             summ +=n #adding each element
             if summ > maxS: #updating for highest sum
                 maxS = summ    
-            if summ<0:  # Sum reset to get higher values
+            if summ<0:  # Sum reset to get higher values as negative values decrease summ
                 summ = 0
             
         return maxS
