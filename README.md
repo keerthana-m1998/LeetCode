@@ -52,6 +52,7 @@
 | [0239-sliding-window-maximum](https://github.com/keerthana-m1998/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/keerthana-m1998/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/keerthana-m1998/LeetCode/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/keerthana-m1998/LeetCode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/keerthana-m1998/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/keerthana-m1998/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/keerthana-m1998/LeetCode/tree/master/0410-split-array-largest-sum) |
@@ -100,6 +101,7 @@
 | [0229-majority-element-ii](https://github.com/keerthana-m1998/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/keerthana-m1998/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/keerthana-m1998/LeetCode/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/keerthana-m1998/LeetCode/tree/master/0274-h-index) |
 | [0451-sort-characters-by-frequency](https://github.com/keerthana-m1998/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/keerthana-m1998/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/keerthana-m1998/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -443,6 +445,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/keerthana-m1998/LeetCode/tree/master/0274-h-index) |
 | [0948-sort-an-array](https://github.com/keerthana-m1998/LeetCode/tree/master/0948-sort-an-array) |
 ## Brainteaser
 |  |
