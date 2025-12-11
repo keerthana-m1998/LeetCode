@@ -63,6 +63,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/keerthana-m1998/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/keerthana-m1998/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/keerthana-m1998/LeetCode/tree/master/0724-find-pivot-index) |
+| [0775-global-and-local-inversions](https://github.com/keerthana-m1998/LeetCode/tree/master/0775-global-and-local-inversions) |
 | [0792-binary-search](https://github.com/keerthana-m1998/LeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/keerthana-m1998/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/keerthana-m1998/LeetCode/tree/master/0912-sort-an-array) |
@@ -163,6 +164,7 @@
 | [0268-missing-number](https://github.com/keerthana-m1998/LeetCode/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/keerthana-m1998/LeetCode/tree/master/0319-bulb-switcher) |
 | [0628-maximum-product-of-three-numbers](https://github.com/keerthana-m1998/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0775-global-and-local-inversions](https://github.com/keerthana-m1998/LeetCode/tree/master/0775-global-and-local-inversions) |
 | [1013-fibonacci-number](https://github.com/keerthana-m1998/LeetCode/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/keerthana-m1998/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/keerthana-m1998/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
