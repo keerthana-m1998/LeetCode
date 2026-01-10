@@ -55,6 +55,7 @@
 | [0274-h-index](https://github.com/keerthana-m1998/LeetCode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/keerthana-m1998/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/keerthana-m1998/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0303-range-sum-query-immutable](https://github.com/keerthana-m1998/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/keerthana-m1998/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/keerthana-m1998/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/keerthana-m1998/LeetCode/tree/master/0493-reverse-pairs) |
@@ -360,6 +361,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/keerthana-m1998/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/keerthana-m1998/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/keerthana-m1998/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0724-find-pivot-index](https://github.com/keerthana-m1998/LeetCode/tree/master/0724-find-pivot-index) |
 | [1219-longest-well-performing-interval](https://github.com/keerthana-m1998/LeetCode/tree/master/1219-longest-well-performing-interval) |
@@ -494,4 +496,8 @@
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/keerthana-m1998/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/keerthana-m1998/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/keerthana-m1998/LeetCode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
