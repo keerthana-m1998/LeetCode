@@ -59,6 +59,7 @@
 | [0410-split-array-largest-sum](https://github.com/keerthana-m1998/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/keerthana-m1998/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/keerthana-m1998/LeetCode/tree/master/0493-reverse-pairs) |
+| [0525-contiguous-array](https://github.com/keerthana-m1998/LeetCode/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/keerthana-m1998/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/keerthana-m1998/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/keerthana-m1998/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -196,6 +197,7 @@
 | [0268-missing-number](https://github.com/keerthana-m1998/LeetCode/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/keerthana-m1998/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/keerthana-m1998/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0525-contiguous-array](https://github.com/keerthana-m1998/LeetCode/tree/master/0525-contiguous-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/keerthana-m1998/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1219-longest-well-performing-interval](https://github.com/keerthana-m1998/LeetCode/tree/master/1219-longest-well-performing-interval) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/keerthana-m1998/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -363,6 +365,7 @@
 | [0238-product-of-array-except-self](https://github.com/keerthana-m1998/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/keerthana-m1998/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/keerthana-m1998/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0525-contiguous-array](https://github.com/keerthana-m1998/LeetCode/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/keerthana-m1998/LeetCode/tree/master/0724-find-pivot-index) |
 | [1219-longest-well-performing-interval](https://github.com/keerthana-m1998/LeetCode/tree/master/1219-longest-well-performing-interval) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/keerthana-m1998/LeetCode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
