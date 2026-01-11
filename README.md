@@ -73,6 +73,7 @@
 | [0918-maximum-sum-circular-subarray](https://github.com/keerthana-m1998/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/keerthana-m1998/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0948-sort-an-array](https://github.com/keerthana-m1998/LeetCode/tree/master/0948-sort-an-array) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/keerthana-m1998/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/keerthana-m1998/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1219-longest-well-performing-interval](https://github.com/keerthana-m1998/LeetCode/tree/master/1219-longest-well-performing-interval) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/keerthana-m1998/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -203,6 +204,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/keerthana-m1998/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/keerthana-m1998/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0930-binary-subarrays-with-sum](https://github.com/keerthana-m1998/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/keerthana-m1998/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1219-longest-well-performing-interval](https://github.com/keerthana-m1998/LeetCode/tree/master/1219-longest-well-performing-interval) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/keerthana-m1998/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2502-sort-the-people](https://github.com/keerthana-m1998/LeetCode/tree/master/2502-sort-the-people) |
@@ -373,6 +375,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/keerthana-m1998/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/keerthana-m1998/LeetCode/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/keerthana-m1998/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/keerthana-m1998/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1219-longest-well-performing-interval](https://github.com/keerthana-m1998/LeetCode/tree/master/1219-longest-well-performing-interval) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/keerthana-m1998/LeetCode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 ## Simulation
