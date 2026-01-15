@@ -68,6 +68,7 @@
 | [0724-find-pivot-index](https://github.com/keerthana-m1998/LeetCode/tree/master/0724-find-pivot-index) |
 | [0775-global-and-local-inversions](https://github.com/keerthana-m1998/LeetCode/tree/master/0775-global-and-local-inversions) |
 | [0792-binary-search](https://github.com/keerthana-m1998/LeetCode/tree/master/0792-binary-search) |
+| [0881-boats-to-save-people](https://github.com/keerthana-m1998/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0907-koko-eating-bananas](https://github.com/keerthana-m1998/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/keerthana-m1998/LeetCode/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/keerthana-m1998/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -114,6 +115,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/keerthana-m1998/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/keerthana-m1998/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/keerthana-m1998/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0881-boats-to-save-people](https://github.com/keerthana-m1998/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/keerthana-m1998/LeetCode/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/keerthana-m1998/LeetCode/tree/master/0948-sort-an-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/keerthana-m1998/LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -150,6 +152,7 @@
 | [0287-find-the-duplicate-number](https://github.com/keerthana-m1998/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0633-sum-of-square-numbers](https://github.com/keerthana-m1998/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/keerthana-m1998/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0881-boats-to-save-people](https://github.com/keerthana-m1998/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0908-middle-of-the-linked-list](https://github.com/keerthana-m1998/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/keerthana-m1998/LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/keerthana-m1998/LeetCode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
@@ -368,6 +371,7 @@
 | [0134-gas-station](https://github.com/keerthana-m1998/LeetCode/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/keerthana-m1998/LeetCode/tree/master/0179-largest-number) |
 | [0410-split-array-largest-sum](https://github.com/keerthana-m1998/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0881-boats-to-save-people](https://github.com/keerthana-m1998/LeetCode/tree/master/0881-boats-to-save-people) |
 | [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/keerthana-m1998/LeetCode/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
 | [2032-largest-odd-number-in-string](https://github.com/keerthana-m1998/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2077-largest-number-after-mutating-substring](https://github.com/keerthana-m1998/LeetCode/tree/master/2077-largest-number-after-mutating-substring) |
