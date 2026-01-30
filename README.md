@@ -77,6 +77,7 @@
 | [0948-sort-an-array](https://github.com/keerthana-m1998/LeetCode/tree/master/0948-sort-an-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/keerthana-m1998/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/keerthana-m1998/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1124-longest-well-performing-interval](https://github.com/keerthana-m1998/LeetCode/tree/master/1124-longest-well-performing-interval) |
 | [1219-longest-well-performing-interval](https://github.com/keerthana-m1998/LeetCode/tree/master/1219-longest-well-performing-interval) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/keerthana-m1998/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/keerthana-m1998/LeetCode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -220,6 +221,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/keerthana-m1998/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0930-binary-subarrays-with-sum](https://github.com/keerthana-m1998/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/keerthana-m1998/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1124-longest-well-performing-interval](https://github.com/keerthana-m1998/LeetCode/tree/master/1124-longest-well-performing-interval) |
 | [1219-longest-well-performing-interval](https://github.com/keerthana-m1998/LeetCode/tree/master/1219-longest-well-performing-interval) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/keerthana-m1998/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2502-sort-the-people](https://github.com/keerthana-m1998/LeetCode/tree/master/2502-sort-the-people) |
@@ -396,6 +398,7 @@
 | [0724-find-pivot-index](https://github.com/keerthana-m1998/LeetCode/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/keerthana-m1998/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/keerthana-m1998/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1124-longest-well-performing-interval](https://github.com/keerthana-m1998/LeetCode/tree/master/1124-longest-well-performing-interval) |
 | [1219-longest-well-performing-interval](https://github.com/keerthana-m1998/LeetCode/tree/master/1219-longest-well-performing-interval) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/keerthana-m1998/LeetCode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 ## Simulation
@@ -429,12 +432,14 @@
 | [0071-simplify-path](https://github.com/keerthana-m1998/LeetCode/tree/master/0071-simplify-path) |
 | [0234-palindrome-linked-list](https://github.com/keerthana-m1998/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/keerthana-m1998/LeetCode/tree/master/1078-remove-outermost-parentheses) |
+| [1124-longest-well-performing-interval](https://github.com/keerthana-m1998/LeetCode/tree/master/1124-longest-well-performing-interval) |
 | [1219-longest-well-performing-interval](https://github.com/keerthana-m1998/LeetCode/tree/master/1219-longest-well-performing-interval) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/keerthana-m1998/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/keerthana-m1998/LeetCode/tree/master/0042-trapping-rain-water) |
+| [1124-longest-well-performing-interval](https://github.com/keerthana-m1998/LeetCode/tree/master/1124-longest-well-performing-interval) |
 | [1219-longest-well-performing-interval](https://github.com/keerthana-m1998/LeetCode/tree/master/1219-longest-well-performing-interval) |
 ## Heap (Priority Queue)
 |  |
