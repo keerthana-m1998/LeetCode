@@ -91,6 +91,7 @@
 | [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/keerthana-m1998/LeetCode/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
 | [2047-find-a-peak-element-ii](https://github.com/keerthana-m1998/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2077-largest-number-after-mutating-substring](https://github.com/keerthana-m1998/LeetCode/tree/master/2077-largest-number-after-mutating-substring) |
+| [2233-maximum-product-after-k-increments](https://github.com/keerthana-m1998/LeetCode/tree/master/2233-maximum-product-after-k-increments) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/keerthana-m1998/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2329-maximum-product-after-k-increments](https://github.com/keerthana-m1998/LeetCode/tree/master/2329-maximum-product-after-k-increments) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/keerthana-m1998/LeetCode/tree/master/2373-largest-local-values-in-a-matrix) |
@@ -384,6 +385,7 @@
 | [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/keerthana-m1998/LeetCode/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
 | [2032-largest-odd-number-in-string](https://github.com/keerthana-m1998/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2077-largest-number-after-mutating-substring](https://github.com/keerthana-m1998/LeetCode/tree/master/2077-largest-number-after-mutating-substring) |
+| [2233-maximum-product-after-k-increments](https://github.com/keerthana-m1998/LeetCode/tree/master/2233-maximum-product-after-k-increments) |
 | [2329-maximum-product-after-k-increments](https://github.com/keerthana-m1998/LeetCode/tree/master/2329-maximum-product-after-k-increments) |
 | [2544-minimum-addition-to-make-integer-beautiful](https://github.com/keerthana-m1998/LeetCode/tree/master/2544-minimum-addition-to-make-integer-beautiful) |
 | [2811-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/keerthana-m1998/LeetCode/tree/master/2811-determine-the-minimum-sum-of-a-k-avoiding-array) |
@@ -450,6 +452,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/keerthana-m1998/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/keerthana-m1998/LeetCode/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/keerthana-m1998/LeetCode/tree/master/0948-sort-an-array) |
+| [2233-maximum-product-after-k-increments](https://github.com/keerthana-m1998/LeetCode/tree/master/2233-maximum-product-after-k-increments) |
 | [2329-maximum-product-after-k-increments](https://github.com/keerthana-m1998/LeetCode/tree/master/2329-maximum-product-after-k-increments) |
 ## Trie
 |  |
