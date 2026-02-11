@@ -13,24 +13,28 @@ class Solution:
         #     r +=1     # right keeps moving to find maximum value
         # return maxP
 
-        # # 2nd approach 09-04-2025
-        # min_price = float('inf')
-        # max_p = 0
-        # for price in prices: # iterate through each value while storing Min_price by far
-        #     min_price = min(price,min_price) 
-        #     profit = price-min_price  # subtract with cur price & get profit
-        #     max_p = max(profit,max_p) # compare to get max profit
-        # return max_p
 
+        """“I scan once, tracking the minimum price so far and calculating potential  
+        profit at each step. This gives an O(n) time, O(1) space solution.”"""
 
+        # 2nd approach 09-04-2025
         min_price = float('inf')
-        max_profit = 0
+        max_p = 0
+        for price in prices: # iterate through each value while storing Min_price by far
+            min_price = min(price,min_price) 
+            profit = price-min_price  # subtract with cur price & get profit
+            max_p = max(profit,max_p) # compare to get max profit
+        return max_p
 
-        for price in prices:
-            min_price = min(price,min_price)
-            profit = price-min_price
-            max_profit = max(profit,max_profit)
-        return max_profit
+
+        # min_price = float('inf')
+        # max_profit = 0
+
+        # for price in prices:
+        #     min_price = min(price,min_price)
+        #     profit = price-min_price
+        #     max_profit = max(profit,max_profit)
+        # return max_profit
 
         
 
